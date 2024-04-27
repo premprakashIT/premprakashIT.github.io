@@ -1,4 +1,5 @@
 # Prem Prakash - Portfolio
+[![Netlify Status](https://api.netlify.com/api/v1/badges/156f7b37-8027-46e1-9cd7-e4b6874a7093/deploy-status)](https://app.netlify.com/sites/premprakashdev/deploys)
 
 ## Overview
 Welcome to my portfolio! I am a passionate MERN/MEAN Stack Developer and DevOps Engineer based in India. With a strong foundation in HTML, CSS, JavaScript, and a deep understanding of React, Node.js, MongoDB, and MySQL, I specialize in crafting dynamic and efficient web applications. Additionally, I am proficient in DevOps practices, mastering tools like Jenkins, Terraform, Docker, and Kubernetes to ensure seamless deployment and infrastructure management.
